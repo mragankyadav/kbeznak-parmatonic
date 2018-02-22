@@ -8,4 +8,5 @@ Leetcode, Github, Machine Learning, Big Data, Taylor Swift, Akon, Rihanna, Chris
 Putin, Prime Minister, President, War, World War, Games, iOS, Android, Mac, IPhone.
 Also here is a link to the kbeznak parmatonic pages:
 http://people.tamu.edu/~mragank/
+
 https://mragankyadav.github.io/kbeznak-parmatonic/
